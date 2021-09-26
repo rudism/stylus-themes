@@ -1,0 +1,73 @@
+body {
+    background-color: #080808;
+}
+
+#hnmain {
+    background-color: #242424;
+}
+
+#hnmain td[bgcolor='#ff6600'] {
+    background-color: #88b8f6;
+}
+
+img[src='y18.gif'] {
+    filter: invert(100%);
+}
+
+#hnmain td[bgcolor='#ff6600'] a:link {
+    color: #080808;
+}
+
+.comhead a:link,
+.subtext a:visited,
+.hnmore a:link,
+a:visited {
+    color: #9c998e;
+}
+
+a:link {
+    color: #e3e0d7;
+}
+
+a.storylink:hover {
+    color: #cae682;
+}
+
+font[color='#3c963c'] {
+    color: #95e454;
+}
+
+.c00,
+.c00 a:link {
+    color: #e3e0d7;
+}
+
+.c5a,
+.c5a a:link,
+.c5a a:visited,
+.c73,
+.c73 a:link,
+.c73 a:visited,
+.c82,
+.c82 a:link,
+.c82 a:visited,
+.c88,
+.c88 a:link,
+.c88 a:visited,
+.c9c,
+.c9c a:link,
+.c9c a:visited,
+.cae,
+.cae a:link,
+.cae a:visited,
+.cbe,
+.cbe a:link,
+.cbe a:visited,
+.cce,
+.cce a:link,
+.cce a:visited,
+.cdd,
+.cdd a:link,
+.cdd a:visited {
+    color: #e5796d;
+}
