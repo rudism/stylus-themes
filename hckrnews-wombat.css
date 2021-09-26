@@ -1,0 +1,44 @@
+body,
+.form-actions {
+    background: #242424;
+    color: #e3e0d7;
+}
+
+a {
+    color: #cae682;
+}
+
+.entries a.link {
+    color: #e3e0d7;
+}
+
+.entries a.link:visited,
+.entries .source {
+    color: #9c998e;
+}
+
+.entries .homepage,
+header a,
+header a:hover {
+    color: #e5796d;
+}
+
+.entries a:hover {
+    background-color: #080808;
+    color: #95e454;
+}
+
+.entries .tab,
+.menu .nav-pills > .active > a,
+.menu .nav-pills > .active > a:hover {
+    background-color: #e5796d;
+}
+
+.nav > li > a:hover {
+    background-color: #080808;
+    color: #e3e0d7;
+}
+
+.entries .day {
+    border-color: #e5796d;
+}
