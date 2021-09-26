@@ -17,10 +17,13 @@ a {
     color: #9c998e;
 }
 
-.entries .homepage,
+.entries .homepage {
+
+    color: #e5796d;
+}
 header a,
 header a:hover {
-    color: #e5796d;
+    color: #88b8f6
 }
 
 .entries a:hover {
@@ -31,7 +34,8 @@ header a:hover {
 .entries .tab,
 .menu .nav-pills > .active > a,
 .menu .nav-pills > .active > a:hover {
-    background-color: #e5796d;
+    background-color: #88b8f6;
+    color: #080808;
 }
 
 .nav > li > a:hover {
@@ -40,5 +44,5 @@ header a:hover {
 }
 
 .entries .day {
-    border-color: #e5796d;
+    border-color: #88b8f6;
 }
