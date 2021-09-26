@@ -1,1 +1,3 @@
-Dark mode themes for a few sites I use.
+## hckrnews.com Wombat
+
+![hckrnews](https://raw.githubusercontent.com/wiki/rudism/stylus-themes/img/hckrnews-wombat.png)
